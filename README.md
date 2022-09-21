@@ -6,5 +6,4 @@ A landing page is one of the best web development projects for beginners. This p
 
 
 #This is my first task which i have to complete.Making one Landing page.
-Screenshot from 2022-09-21 18-59-39.png
-![Optional Text](../master/Screenshot from 2022-09-21 18-59-39.png)
+![alt text](https://github.com/Shrikant-Surwase/OIBGRIP_TASK01/blob/d1a471208825a8d10de21e3d512f6279a26766a1/Screenshot%20from%202022-09-21%2018-59-39.png)
